@@ -1,1 +1,1 @@
-const text = 'Some text'
+const text = 'addScript text'
