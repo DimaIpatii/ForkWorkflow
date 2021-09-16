@@ -1,1 +1,6 @@
-console.log('Hello Wordl');
+
+function printWord(){    
+    console.log('Hello Wordl');
+}
+
+printWord();
