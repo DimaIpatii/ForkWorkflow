@@ -1,0 +1,5 @@
+## Docs Caption:
+
+# Changes made in fixScript branch:
+    * Added paragraph in index.html;
+    * Added styles for paragraphs;
